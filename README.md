@@ -1,4 +1,4 @@
-# Metaheuristics_course_project
+# Adaptive differential evolution for Generating Alternative Land-use Allocation for Mixed Use Areas
 
 The project was modified the codes in https://gitlab.com/nusrat.sharmin/land_use_optimization
 
